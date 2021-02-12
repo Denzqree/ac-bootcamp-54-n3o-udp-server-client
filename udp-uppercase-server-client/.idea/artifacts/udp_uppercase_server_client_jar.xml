@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="udp-uppercase-server-client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/udp_uppercase_server_client_jar</output-path>
+    <root id="archive" name="udp-uppercase-server-client.jar">
+      <element id="module-output" name="udp-uppercase-server-client" />
+    </root>
+  </artifact>
+</component>
